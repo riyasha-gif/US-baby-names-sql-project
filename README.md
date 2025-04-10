@@ -14,8 +14,8 @@ This project analyzes U.S. baby name trends from 1980 to 2009 using SQL.
 - Longest and shortest names
 
 ## 📁 Files Included
-- SQL Queries (`project_queries.sql`)
-- Presentation (`Final_Project_Presentation.pdf`)
+- SQL Queries (`Baby_names.sql`)
+- Presentation (`BABY NAME TREND ANALYSIS.pdf`)
 
   ## 📌 Repository Info
 ✅ Project: Completed  
